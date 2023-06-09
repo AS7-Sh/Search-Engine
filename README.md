@@ -35,7 +35,7 @@ By accessing the offline service folder you will find two indexing folders:
 * Numpy
 * Sklearn
 * Gensim
-You will find the full list in the requirements file, all you have to do is pip install -r requirements.txt
+* You will find the full list in the requirements file, all you have to do is pip install -r requirements.txt
 
 ## Authors
 * Abd Alrahman Shebani
